@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">इमिज ऐप</string>
+    <string name="change">बदलें</string>
+    <string name="fetch_image_on_button_click">बटन क्लिक पर छवि प्राप्त करें</string>
+    <string name="no_internet_connection">कोई इंटरनेट कनेक्शन नहीं!!</string>
+
+</resources>
